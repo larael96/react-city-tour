@@ -10,7 +10,7 @@ export default class Button extends Component {
  }
 
  changeTitle = () => {
-    this.setState({ title: "Welcome to our site" });
+    this.setState({ title: "Thanks for visiting our site" });
  };
 
  render() {
